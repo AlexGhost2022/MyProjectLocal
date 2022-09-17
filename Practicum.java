@@ -58,7 +58,7 @@ public class Practicum {
                     break;
                 }
             }else {
-                System.out.println("Такой команды пока нет");
+                System.out.println("Такой команды пока нет!");
             }
         }
 
